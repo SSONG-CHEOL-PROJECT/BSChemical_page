@@ -23,15 +23,13 @@
         
                     고객 여러분이 보내주신 격려와 성원에 항상 감사드리며 “혁신하는 기업”, “고객을 위한 기업”
                     “사회에 공헌하는 기업”으로 성장해 나갈 것을 약속 드립니다.</p>
-                <p class="c1p1 c_name">비에스케미칼 대표이사 전상탁</p> <span class="sign">전상탁</span>
-                
+                <p class="c1p1 c_name">비에스케미칼 대표이사 전상탁</p> <span class="sign">전상탁</span>     
             </div>
         </div>
     </div>  
     <div class="c_bg">
-            <h2>지구의 내일,<br>비에스케미칼이 함께합니다.</h2>
-        </div>
-
+        <h2>지구의 내일,<br>비에스케미칼이 함께합니다.</h2>
+    </div>
         <div class="con1 gallery">
             <div class="g_01 wow fadeInUp" >
                 <img src="/resources/img/DSC_02.JPG" alt="마스터배치 추출">
@@ -57,7 +55,6 @@
                 <img src="/resources/img/ulsan_02.png" alt="울산 R&D연구소 #02">
                 <p>울산 R&D연구소 #02</p>
             </div>
-            
         </div>
 </div>
  

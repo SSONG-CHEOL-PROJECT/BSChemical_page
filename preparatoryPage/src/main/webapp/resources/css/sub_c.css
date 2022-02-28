@@ -29,8 +29,7 @@
     display: inline-block; margin-right: 3%; margin-bottom: 3%;}
 .section_c1 .con2 .circle6{ width: 27%; height: 300px;  border-radius: 50%; background: url(../img/DSC_04.JPG) no-repeat; background-size: 105% 101%;
     display: inline-block; margin-bottom: 3%; }
-     */
-    
+ */
     
 .c_bg{width: 100%;height: 700px;background-image: url(../img/DSC_0230.JPG);background-repeat: no-repeat;background-attachment: fixed;
  background-size: cover;margin-bottom: 100px;}
@@ -41,6 +40,8 @@
 .g_01{width: 47%;height: 500px;display: inline-block;}
 .g_01 p{text-align: center;font-size: 1.3em;padding-top: 17px;}
 .g_01:nth-of-type(odd){margin: 0 2% 8% 0;}
+
+
 
 /* sub_business */
 
