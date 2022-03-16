@@ -32,19 +32,19 @@
     </div>
         <div class="con1 gallery">
             <div class="g_01 wow fadeInUp" >
-                <img src="/resources/img/DSC_02.JPG" alt="마스터배치 추출">
+                <img src="/resources/img/DSC_02.jpg" alt="마스터배치 추출">
                 <p>마스터배치 추출</p>
             </div>
             <div class="g_01 wow fadeInUp" >
-                <img src="/resources/img/DSC_0264.JPG" alt="음성공장">
+                <img src="/resources/img/DSC_0264.jpg" alt="음성공장">
                 <p>음성공장</p>
             </div>
             <div class="g_01 wow fadeInUp" data-wow-delay="0.2s">
-                <img src="/resources/img/DSC_0296.JPG" alt="음성공장 연구실 #01">
+                <img src="/resources/img/DSC_0296.jpg" alt="음성공장 연구실 #01">
                 <p>음성공장 연구실 #01</p>
             </div>
             <div class="g_01 wow fadeInUp" data-wow-delay="0.2s">
-                <img src="/resources/img/DSC_04.JPG" alt="음성공장 연구실 #02">
+                <img src="/resources/img/DSC_04.jpg" alt="음성공장 연구실 #02">
                 <p>음성공장 연구실 #02</p>
             </div>
             <div class="g_01 wow fadeInUp" data-wow-delay="0.2s">
