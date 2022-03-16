@@ -16,6 +16,8 @@
                     울산 이산화탄소 자원화 규제자유특구는 2년간 총 177억원의 재원으로 총 15개 특구사업자가 참여하는 전과정 실증을 통하여
                     관련 규제를 개선하여 이산화탄소 활용 기술의 사업화 기반을 구축하고자 합니다.</p>
                 <img class="co2_img01" src="/resources/img/co2_img01.png" alt="co2_img01">
+                <p class="c1p1"> <span style="font-weight: 900; font-size: 25px; margin-top: 30px;">※ 이용자 고지사항</span></p> 
+                <img class="user02" src="/resources/img/user02.jpg" alt="user02">
             </div>
         </div>
         
@@ -42,7 +44,7 @@
                 </div>
             </div>
         </div>
-
+  
         <div class="con3">
             <h2 class="sub_title wow fadeInLeft">불소수지<br>PTFE</h2>
             <div class="rightbox">

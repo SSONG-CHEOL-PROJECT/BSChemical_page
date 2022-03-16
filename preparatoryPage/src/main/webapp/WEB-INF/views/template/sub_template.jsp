@@ -7,7 +7,7 @@
 <head>
 <meta charset="UTF-8">
 <c:forEach items="${css}" var="item">
-	<link rel="stylesheet" type="text/css" href="/resources/css/${item}.css?cggg=13">
+	<link rel="stylesheet" type="text/css" href="/resources/css/${item}.css?jgg=13">
 </c:forEach>
 <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
 

@@ -26,7 +26,7 @@
                     </ul>
                 </div> -->
             </li>
-            <li><a href="#">Business Case</a>
+            <li><a href="/company/business_case">Business Case</a>
             <!-- <div class="submenu">
                     <ul>
                         <li><a href="#">submenu3-1</a></li>

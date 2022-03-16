@@ -42,5 +42,17 @@ public class IntroduceController {
 		return ViewRef.SUBTEMP;
 	}
 	
+	@RequestMapping(value="/business_case", method = RequestMethod.GET)
+	public String businessCase(HttpServletRequest req, Model model) {
+		
+		model.addAttribute(Const.CSS, new String[] {Const.COMMON, Const.MAIN, Const.FOOTER, Const.DEFAULTHEADER, Const.DEFAULTFOOTER, Const.SUB_C, Const.SUB_CASE});
+		model.addAttribute(Const.VIEW, "/introduce/business_case");
+		model.addAttribute(Const.TITLE, "(주)비에스케미칼");
+		model.addAttribute(Const.HEADER, "template/header_template");
+		model.addAttribute(Const.FOOTER, "template/footer_template");
+		model.addAttribute(Const.JS, new String[] {Const.WOW});
+		
+		return ViewRef.SUBTEMP;
+	}
 }
 
